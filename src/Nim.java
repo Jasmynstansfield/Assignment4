@@ -2,10 +2,12 @@ import java.util.Random;
 import java.util.Scanner;
 
 /*
+ * nim.java
  * Jasmyn Stansfield
  * Mr.Hardman
  * Assignment 4, program 5
- * Date
+ * November 18, 2016
+ * This program is incomplete
  */
 public class Nim {
 

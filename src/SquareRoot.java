@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 /*
+ * SquareRoot.java
  * Jasmyn Stansfield
  * Mr. Hardman
  * Assignment 4, Program 2

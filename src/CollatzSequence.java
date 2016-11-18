@@ -1,10 +1,11 @@
 import java.util.Scanner;
 
 /*
+ * CollatzSequence.java
  * Jasmyn Stansfield
  * Mr Hardman
  * Assignment 4, Program 2
- * Date
+ * November 16, 2016
  */
 public class CollatzSequence {
 
